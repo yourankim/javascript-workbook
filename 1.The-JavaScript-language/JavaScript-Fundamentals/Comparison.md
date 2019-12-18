@@ -1,4 +1,5 @@
-# 비교 연산자 [본문](https://ko.javascript.info/comparison)
+# 비교 연산자 
+[본문](https://ko.javascript.info/comparison)
 
 ## 문자열 비교
 

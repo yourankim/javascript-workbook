@@ -1,4 +1,5 @@
-# 자료형 [본문](https://ko.javascript.info/types)
+# 자료형 
+[본문](https://ko.javascript.info/types)
 
 자바스크립트는 변수의 타입을 언제든지 바꿀 수 있는 *동적 타입 dynamically typed* 언어. 일곱 가지 기본 자료형이 있다.
 
@@ -23,6 +24,7 @@ alert(`${name}님 안녕하세요?`);
 ```
 
 자바의 char와 같은 한 글자 단위의 문자형은 없다.
+
 
 
 ## 불린형 boolean
